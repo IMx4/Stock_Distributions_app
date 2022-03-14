@@ -1,4 +1,2 @@
-# CMSC495
-Capstone Project
-
-## we can fill in the readme as needed
+# Stock  Distribution Probability
+The Distribution Dashboard is an interactive display that provides the user with key metrics pertaining to the log returns of a stock. The user chooses a stock of interest and then is displayed the price time series of that stock along with the probability distribution of its log returns. The user also has the ability to test the fit of multiple theoretical distributions to the probability distribution of the log returns. The dashboard provides the user with the top three best fitting distributions as given by the Bayesian information criterion. There are additional features such as choosing different pricing options (close, open, high, low) and general data management (download and delete data sets). The purpose of an application like the Distribution Dashboard is that finding the best fitting theoretical distribution to a sample's probability distribution is the first critical step in data analysis. The application provides the user with the best fitting theoretical distribution so that the user may use that information for making predictions and inferences about the current and future states of the log returns of a stock.
